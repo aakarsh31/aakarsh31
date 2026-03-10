@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Learning and building **agentic AI systems** and **AIOps pipelines**, focusing on automation, monitoring, and production-ready ML workflows.<br><br>👯 I’m looking to collaborate on  <br>**End-to-end AI projects and hackathons**, from problem formulation and data engineering to model building and deployment.<br><br>🤝 I’m looking for help with  <br>Scaling agentic workflows, strengthening MLOps best practices, and designing resilient AI systems in production.<br><br>🌱 I’m currently learning  <br>The **latest transformer research**, including modern architectures, fine-tuning strategies, and efficiency improvements.<br><br>💬 Ask me about  <br>Geospatial data, probability, statistical testing — and my unhealthy obsession for **chi-square tests** 📊😄<br><br><br>
+# About Me:
+I’m currently working on  <br>Learning and building **agentic AI systems** and **AIOps pipelines**, focusing on automation, monitoring, and production-ready ML workflows.<br><br>I’m looking to collaborate on  <br>**End-to-end AI projects and hackathons**, from problem formulation and data engineering to model building and deployment.<br><br>I’m looking for help with  <br>Scaling agentic workflows, strengthening MLOps best practices, and designing resilient AI systems in production.<br><br>I’m currently learning  <br>The **latest transformer research**, including modern architectures, fine-tuning strategies, and efficiency improvements.<br><br><br>
 
 
 ## 🌐 Socials:
